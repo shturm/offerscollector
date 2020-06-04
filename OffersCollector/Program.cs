@@ -52,7 +52,7 @@ namespace OffersCollector
                 Console.WriteLine(link);
             }
 
-            // Clear linksList.
+            // Clear the list with the links.
             linksList.Clear();
 
             url = "http://imoti.bg/bg/adv/type:/oblast:sofiq/city:/offer_id:ID/budget:%D0%A6%D0%B5%D0%BD%D0%B0%20%D0%B4%D0%BE/currency:EUR/action:sell";
